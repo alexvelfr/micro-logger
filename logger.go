@@ -17,7 +17,7 @@ func InitLogger(servceName, uri string, useInsecureSSL bool) {
 }
 
 func LogError(reqID, action, file, data string, err error) error {
-	return logCommon(reqID, action, file, data, logstashclientmicro.Error, nil)
+	return logCommon(reqID, action, file, data, logstashclientmicro.Error, err)
 }
 
 func LogInfo(reqID, action, file, data string) error {
