@@ -2,3 +2,5 @@ github.com/alexvelfr/logstash-client-micro v0.0.0-20211201151830-baed66f8e121 h1
 github.com/alexvelfr/logstash-client-micro v0.0.0-20211201151830-baed66f8e121/go.mod h1:JJflwsRhW5Mu7Q26ZqzQuZ+zR0SYKdvxnS3BrC+02Uw=
 github.com/alexvelfr/logstash-client-micro v0.0.2 h1:jbBn06hvpU+Gv3W6jTsp7VIT2SCUHJX7oD+8p9sfIW4=
 github.com/alexvelfr/logstash-client-micro v0.0.2/go.mod h1:JJflwsRhW5Mu7Q26ZqzQuZ+zR0SYKdvxnS3BrC+02Uw=
+github.com/alexvelfr/logstash-client-micro v0.0.3 h1:j5MLzOQLRvAGzu1yY5V/5ytAGDC1e0oBcevZvti4/LI=
+github.com/alexvelfr/logstash-client-micro v0.0.3/go.mod h1:JJflwsRhW5Mu7Q26ZqzQuZ+zR0SYKdvxnS3BrC+02Uw=
